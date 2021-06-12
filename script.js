@@ -1,3 +1,5 @@
+console.log('Que curioso...');
+
 const FIN = new Date("07/28/2026 12:00 PM");
 
 const YEARS = document.getElementById("years");
