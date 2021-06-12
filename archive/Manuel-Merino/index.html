@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <link rel="shortcut icon" href="./img/favicon.svg" />
+    <meta charset="utf-8" />
+    <title>¿Cuando cambiamos de Presidente?</title>
+    <link rel="stylesheet" href="./../../styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div class="container">
+      <section class="cuenta">
+        <h1>Periodo Presidencial: 2021-2026</h1>
+        <p>
+        Manuel Merino dejo de ser Presidente del Perú hace 
+          <span id="years">{}</span> años, <span id="months">{}</span> meses,
+          <span id="days">{}</span> dias, <span id="hours">{}</span> horas,
+          <span id="minutes">{}</span> minutos y
+          <span id="seconds">{}</span> segundos.</p>
+        <blockquote>
+          "El mandato presidencial es de cinco años, no hay reelección
+          inmediata."
+        </blockquote>
+    </div>
+    
+    <footer>
+      © 2021 <a href="https://github.com/UltiRequiem">Eliaz Bobadilla</a>
+    </footer>
+
+    <script src="./../script.js" type="text/javascript"></script>
+    <script>
+        updateCountdown('November 15, 2020 12:00:00')
+       setInterval(() =>{ updateCountdown('November 15, 2020 12:00:00'); }, 500 );
+    </script>
+  </body>
+</html>
