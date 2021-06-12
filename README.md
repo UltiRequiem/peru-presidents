@@ -6,5 +6,6 @@
 [![Lines Of Code](https://img.shields.io/tokei/lines/github.com/UltiRequiem/PeruPresidents?color=blue&label=Total%20Lines)](https://github.com/UltiRequiem/PeruPresidents.js)
 
 ![Screenshot of Website](./img/screenshots/0.1.0.png)
-:hourglass_flowing_sand: Cuenta regresiva para el nuevo Presidente del Perú y
-cuanto ha pasado desde que acabo el mandato de cada Presidente.
+
+Cuenta regresiva para el nuevo Presidente del Perú y cuanto
+ha pasado desde que acabo el mandato de cada Presidente.
