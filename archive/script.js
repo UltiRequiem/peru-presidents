@@ -1,11 +1,11 @@
-console.log("Que curioso...");
+console.log('Que curioso...');
 
-const YEARS = document.getElementById("years");
-const MONTHS = document.getElementById("months");
-const DAYS = document.getElementById("days");
-const HOURS = document.getElementById("hours");
-const MINUTES = document.getElementById("minutes");
-const SECONDS = document.getElementById("seconds");
+const YEARS = document.getElementById('years');
+const MONTHS = document.getElementById('months');
+const DAYS = document.getElementById('days');
+const HOURS = document.getElementById('hours');
+const MINUTES = document.getElementById('minutes');
+const SECONDS = document.getElementById('seconds');
 
 const MILI_SECONDS = 1000;
 const MILI_MINUTES = MILI_SECONDS * 60;
