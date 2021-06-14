@@ -4,7 +4,7 @@
   "description": "Cuenta regresiva para el nuevo Presidente del Perú.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "node serve.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/UltiRequiem/PeruPresidents/issues"
   },
-  "homepage": "https://github.com/UltiRequiem/PeruPresidents#readme"
+  "homepage": "https://github.com/UltiRequiem/PeruPresidents#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  }
 }
