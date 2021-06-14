@@ -1,0 +1,22 @@
+{
+  "name": "peru-presidents",
+  "version": "1.0.0",
+  "description": "Cuenta regresiva para el nuevo Presidente del Perú.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltiRequiem/PeruPresidents.git"
+  },
+  "keywords": [
+    "peru"
+  ],
+  "author": "UltiRequiem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UltiRequiem/PeruPresidents/issues"
+  },
+  "homepage": "https://github.com/UltiRequiem/PeruPresidents#readme"
+}
