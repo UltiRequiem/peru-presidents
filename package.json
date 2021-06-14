@@ -2,7 +2,7 @@
   "name": "peru-presidents",
   "version": "1.0.0",
   "description": "Cuenta regresiva para el nuevo Presidente del Perú.",
-  "main": "script.js",
+  "main": "serve.js",
   "scripts": {
     "serve": "node serve.js"
   },
