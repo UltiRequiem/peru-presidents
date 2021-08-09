@@ -17,6 +17,10 @@ https://ultirequiem.github.io/PeruPresidents
 
 Puedes clonar el Repositorio y trabajar con normalidad, todo es vanila JavaScript.
 
+## TODO
+
+Pasar esta aplicacion a React
+
 ## Licencia
 
 [MIT LICENSE](./LICENSE)
