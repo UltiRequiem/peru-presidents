@@ -8,8 +8,7 @@
 Cuenta regresiva para el nuevo Presidente del Perú y cuanto
 ha pasado desde que acabo el mandato de cada Presidente.
 
-Puedes visitar el sitio en:
-https://ultirequiem.github.io/PeruPresidents
+Puedes visitar el sitio en: https://ulti.js.org/peru-presidents/
 
 ## Desarrollo
 
